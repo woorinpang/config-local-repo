@@ -2,7 +2,7 @@
 token:
   expiration_time: 7200000
   refresh_time: 86400000
-  secret: 'git@github.com:woorinpang/config-repo.git'
+  secret: 'dGhpcy1pcy13b29yaW5wYW5nLXNlcnZpY2UtdGhpcy1pcy13b29yaW5wYW5nLXNlcnZpY2UtdGhpcy1pcy13b29yaW5wYW5nLXNlcnZpY2UtdGhpcy1pcy13b29yaW5wYW5nLXNlcnZpY2UtdGhpcy1pcy13b29yaW5wYW5nLXNlcnZpY2UtdGhpcy1pcy13b29yaW5wYW5nLXNlcnZpY2U='
 
 eureka:
   instance:
